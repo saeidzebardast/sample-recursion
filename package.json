@@ -1,0 +1,25 @@
+{
+  "name": "sample-recursion",
+  "version": "1.0.0",
+  "description": "It includes example recursive functions and their corresponding tests.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeidzebardast/sample-recursion.git"
+  },
+  "keywords": [
+    "javascript",
+    "jest"
+  ],
+  "author": "Saeid Zebardast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saeidzebardast/sample-recursion/issues"
+  },
+  "homepage": "https://github.com/saeidzebardast/sample-recursion#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
